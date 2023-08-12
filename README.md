@@ -24,5 +24,7 @@ windows需要环境：安装docker，mingw，配置环境变量并修改make命�
 ```
 https://github.com/Hesamsrk/docker-env-pypbc
 ```
-但这个makefile里build dockerfile的d没大写导致报错，我给改了
+修改：
+1.这个makefile里build dockerfile的d没大写导致报错，我给改了
+2.给换了个更适合CN特色地区用户的源
 # 不是我说，这个pypbc正常手动安装真是麻烦死了

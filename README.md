@@ -27,4 +27,4 @@ https://github.com/Hesamsrk/docker-env-pypbc
 修改：
 1.这个makefile里build dockerfile的d没大写导致报错，我给改了
 2.给换了个更适合CN特色地区用户的源
-# 不是我说，这个pypbc正常手动安装真是麻烦死了
+# 不是我说，这个pypbc正常一步步安装真是麻烦死了

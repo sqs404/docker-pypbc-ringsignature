@@ -1,5 +1,6 @@
-# dockerpypbc-ringsignature
-本科毕设异构环签名
+# docker-pypbc-ringsignature
+Python文件是我的本科毕设异构环签名（这个不重要，可以用来测试pypbc库）
+Python下使用pypbc库才是重要的（
 
 
 windows需要环境：安装docker，mingw，配置环境变量并修改make命令名称
